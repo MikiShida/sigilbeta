@@ -1,0 +1,17 @@
+[
+null,
+{"id":1,"expanded":true,"name":"DIONY LOBBY","order":7,"parentId":4,"scrollX":670.5,"scrollY":619.5,"quick":false},
+{"id":2,"expanded":false,"name":"DIONYSUS DUNGEON tunnel","order":11,"parentId":1,"scrollX":1237.5,"scrollY":1239,"quick":false},
+{"id":3,"expanded":false,"name":"GLADE 1","order":4,"parentId":7,"scrollX":926.6666666666666,"scrollY":921.3333333333334,"quick":false},
+{"id":4,"expanded":true,"name":"SPIRIT WORLD ENTRANCE","order":1,"parentId":0,"scrollX":1341.3333333333333,"scrollY":1238.6666666666667,"quick":false},
+{"id":5,"expanded":true,"name":"ROOM","order":12,"parentId":0,"scrollX":670.5,"scrollY":619.5,"quick":false},
+{"id":6,"expanded":true,"name":"COMPUTER","order":13,"parentId":5,"scrollX":670.5,"scrollY":619.5,"quick":false},
+{"id":7,"expanded":true,"name":"APOLLO LOBBY","order":2,"parentId":4,"scrollX":894,"scrollY":826,"quick":false},
+{"id":8,"expanded":true,"name":"TUNNEL","order":10,"parentId":1,"scrollX":682.5,"scrollY":619.5,"quick":false},
+{"id":9,"expanded":false,"name":"GLEN","order":3,"parentId":7,"scrollX":596,"scrollY":550.6666666666666,"quick":false},
+{"id":10,"expanded":true,"name":"APOLLO OVERWORLD","order":5,"parentId":7,"scrollX":670.5,"scrollY":3220.5,"quick":false},
+{"id":11,"expanded":true,"name":"DIONY PUZZLE 1","order":8,"parentId":1,"scrollX":670.5,"scrollY":619.5,"quick":false},
+{"id":12,"expanded":false,"name":"STAIRS DOWN","order":9,"parentId":11,"scrollX":2677.5,"scrollY":2740.5,"quick":false},
+{"id":13,"expanded":true,"name":"DRAW","order":14,"parentId":6,"scrollX":894,"scrollY":826,"quick":false},
+{"id":14,"expanded":false,"name":"APOLLO INSIDES","order":6,"parentId":10,"scrollX":2592,"scrollY":748.5,"quick":false}
+]
